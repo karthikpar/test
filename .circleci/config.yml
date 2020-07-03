@@ -11,6 +11,5 @@ jobs:
           name: test
           command: |
            apt-get update
-           ls
            
       
